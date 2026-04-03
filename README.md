@@ -12,7 +12,16 @@ Spring Boot + React 기반 온라인 쇼핑몰 개선 프로젝트 백엔드.
 - 본인 담당: 프론트엔드 전담 (백엔드 레포 참고용)
 
 ## 기술 스택
-Spring Boot · Java
+- Java 21
+- Spring Boot 3.5.6
+- Spring Security + JWT
+- Spring Data JPA + MySQL
+- Spring WebSocket (STOMP)
+- Spring Mail (Gmail SMTP)
+- OAuth2 (카카오 / 네이버 / Google)
+- Thymeleaf
+- Gradle
+- Lombok
 
 ## 실행 방법
 ```bash
